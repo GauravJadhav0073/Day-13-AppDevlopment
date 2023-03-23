@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day 13</string>
+    <string name="order_no_1">order no 1</string>
+    <string name="order_no_4">order no 4</string>
+    <string name="order_now">Order Now</string>
+    <string name="welcome_to_gaurav_s_cafe">Welcome to Gaurav\'s cafe</string>
+    <string name="order_no_2">order no 2</string>
+    <string name="order_no_3">order no 3</string>
+</resources>
